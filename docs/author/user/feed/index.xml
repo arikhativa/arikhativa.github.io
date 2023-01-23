@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>user &#8211; milu</title>
+	<title>user &#8211; Miluoban</title>
 	<atom:link href="/author/user/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
+	<description>Cotton and Pulp</description>
 	<lastBuildDate>Sun, 22 Jan 2023 10:59:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/cropped-logo-2-1-32x32.jpg</url>
+	<title>user &#8211; Miluoban</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>/2023/01/22/hello-world/</link>
