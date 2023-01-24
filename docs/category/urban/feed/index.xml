@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Urban &#8211; Miluoban</title>
+	<atom:link href="/category/urban/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cotton &#38; Pulp</description>
+	<lastBuildDate>Mon, 22 Jul 2019 10:31:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/logo-150x150.png</url>
+	<title>Urban &#8211; Miluoban</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>City Bike</title>
+		<link>/2019/07/22/city-bike/</link>
+					<comments>/2019/07/22/city-bike/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 10:31:26 +0000</pubDate>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[Urban]]></category>
+		<category><![CDATA[bike]]></category>
+		<category><![CDATA[city]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/photonote/?p=681</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Melville. That’s why &#8230; <p class="link-more"><a href="/2019/07/22/city-bike/" class="more-link">Read more<span class="screen-reader-text"> "City Bike"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<p>If you want to read, I might suggest a good book, perhaps Melville. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<p>In today’s competitive market environment, the body copy of your entry must lead the reader through a series of disarmingly simple thoughts.</p>
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also understand their needs as consumers.</p>
+<p>As a result of which, your entry will repay your efforts. Take your sales; simply put, they will rise. Likewise your credibility. There’s every chance your competitors will wish they’d placed this entry, not you. While your customers will have probably forgotten that your competitors even exist. Which brings us, by a somewhat circuitous route, to another small point, but one which we feel should be raised.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/07/22/city-bike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

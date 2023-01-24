@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videos &#8211; Miluoban</title>
+	<atom:link href="/category/videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cotton &#38; Pulp</description>
+	<lastBuildDate>Fri, 01 Nov 2019 12:53:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/01/logo-150x150.png</url>
+	<title>Videos &#8211; Miluoban</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Post with YouTube Video</title>
+		<link>/2019/11/01/post-with-youtube-video/</link>
+					<comments>/2019/11/01/post-with-youtube-video/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 12:53:42 +0000</pubDate>
+				<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/expedition/?p=29</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/11/01/post-with-youtube-video/" class="more-link">Read more<span class="screen-reader-text"> "Post with YouTube Video"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Iceland drone footage in 4K" width="950" height="534" src="https://www.youtube.com/embed/ZwfRUsgvy18?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>If you want to read, I might suggest a good book, perhaps <a href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+
+
+
+<p>In today’s competitive <a href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+
+
+
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also <strong>understand their needs as consumers</strong>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/01/post-with-youtube-video/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Vimeo Video</title>
+		<link>/2019/09/25/post-with-vimeo-video/</link>
+					<comments>/2019/09/25/post-with-vimeo-video/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2019 11:25:54 +0000</pubDate>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[desert]]></category>
+		<category><![CDATA[road]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/delirium/?p=2850</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/09/25/post-with-vimeo-video/" class="more-link">Read more<span class="screen-reader-text"> "Post with Vimeo Video"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><iframe title="4K Fjordlapse Norway" src="https://player.vimeo.com/video/172689417?dnt=1&amp;app_id=122963" width="950" height="534" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<p>In today’s competitive <a title="market environment" href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/09/25/post-with-vimeo-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Testing the Elements	</title>
+	<atom:link href="/2019/11/03/testing-the-elements/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/11/03/testing-the-elements/</link>
+	<description>Cotton &#38; Pulp</description>
+	<lastBuildDate>Tue, 24 Jan 2023 11:23:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: João Ruivo		</title>
+		<link>/2019/11/03/testing-the-elements/#comment-5</link>
+
+		<dc:creator><![CDATA[João Ruivo]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 07:54:19 +0000</pubDate>
+		<guid isPermaLink="false">http://wpzoom.com/zenko/demo/?p=73#comment-5</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2019/11/03/testing-the-elements/#comment-3&quot;&gt;Thomas Clausen&lt;/a&gt;.
+
+If you want to read, I might suggest a good book, perhaps &lt;a title=\&quot;Hemingway\&quot; href=\&quot;http://en.wikipedia.org/wiki/Ernest_Hemingway\&quot; rel=\&quot;nofollow ugc\&quot;&gt;Hemingway&lt;/a&gt; or &lt;a title=\&quot;Melville\&quot; href=\&quot;http://en.wikipedia.org/wiki/Herman_Melville\&quot; rel=\&quot;nofollow ugc\&quot;&gt;Melville&lt;/a&gt;. That’s why they call it, the dummy copy.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2019/11/03/testing-the-elements/#comment-3">Thomas Clausen</a>.</p>
+<p>If you want to read, I might suggest a good book, perhaps <a title=\"Hemingway\" href=\"http://en.wikipedia.org/wiki/Ernest_Hemingway\" rel=\"nofollow ugc\">Hemingway</a> or <a title=\"Melville\" href=\"http://en.wikipedia.org/wiki/Herman_Melville\" rel=\"nofollow ugc\">Melville</a>. That’s why they call it, the dummy copy.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Steve Robillard		</title>
+		<link>/2019/11/03/testing-the-elements/#comment-4</link>
+
+		<dc:creator><![CDATA[Steve Robillard]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 07:52:30 +0000</pubDate>
+		<guid isPermaLink="false">http://wpzoom.com/zenko/demo/?p=73#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2019/11/03/testing-the-elements/#comment-3&quot;&gt;Thomas Clausen&lt;/a&gt;.
+
+In today’s competitive &lt;a title=\&quot;market environment\&quot; href=\&quot;http://en.wikipedia.org/wiki/Market_environment\&quot; rel=\&quot;nofollow ugc\&quot;&gt;market environment&lt;/a&gt;, the body copy of your entry must lead the reader through a series of &lt;strong&gt;disarmingly simple thoughts&lt;/strong&gt;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2019/11/03/testing-the-elements/#comment-3">Thomas Clausen</a>.</p>
+<p>In today’s competitive <a title=\"market environment\" href=\"http://en.wikipedia.org/wiki/Market_environment\" rel=\"nofollow ugc\">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Thomas Clausen		</title>
+		<link>/2019/11/03/testing-the-elements/#comment-3</link>
+
+		<dc:creator><![CDATA[Thomas Clausen]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 07:51:47 +0000</pubDate>
+		<guid isPermaLink="false">http://wpzoom.com/zenko/demo/?p=73#comment-3</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.]]></description>
+			<content:encoded><![CDATA[<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dumitru Brînzan		</title>
+		<link>/2019/11/03/testing-the-elements/#comment-6</link>
+
+		<dc:creator><![CDATA[Dumitru Brînzan]]></dc:creator>
+		<pubDate>Thu, 07 May 2009 02:55:44 +0000</pubDate>
+		<guid isPermaLink="false">http://wpzoom.com/zenko/demo/?p=73#comment-6</guid>
+
+					<description><![CDATA[All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also &lt;strong&gt;understand their needs as consumers&lt;/strong&gt;.]]></description>
+			<content:encoded><![CDATA[<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also <strong>understand their needs as consumers</strong>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

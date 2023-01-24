@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Gutenberg Sample Post	</title>
+	<atom:link href="/2019/11/09/gutenberg-sample-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/11/09/gutenberg-sample-post/</link>
+	<description>Cotton &#38; Pulp</description>
+	<lastBuildDate>Mon, 26 Apr 2021 10:09:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Pavel Ciorici		</title>
+		<link>/2019/11/09/gutenberg-sample-post/#comment-7</link>
+
+		<dc:creator><![CDATA[Pavel Ciorici]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 10:09:41 +0000</pubDate>
+		<guid isPermaLink="false">https://demo.wpzoom.com/inspiro-lite-xml/?p=5984#comment-7</guid>
+
+					<description><![CDATA[This is dummy copy. It is not meant to be read. Accordingly, it is difficult to figure out when to end it. If this were real copy, it would have ended long ago, because‚ as we all know‚ no one reads body copy, and even fewer read body copy this long. But then, this is dummy copy. It is not meant to be read. Period.]]></description>
+			<content:encoded><![CDATA[<p>This is dummy copy. It is not meant to be read. Accordingly, it is difficult to figure out when to end it. If this were real copy, it would have ended long ago, because‚ as we all know‚ no one reads body copy, and even fewer read body copy this long. But then, this is dummy copy. It is not meant to be read. Period.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

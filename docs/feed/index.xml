@@ -11,8 +11,8 @@
 	<title>Miluoban</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Cotton and Pulp</description>
-	<lastBuildDate>Mon, 23 Jan 2023 12:23:32 +0000</lastBuildDate>
+	<description>Cotton &#38; Pulp</description>
+	<lastBuildDate>Tue, 24 Jan 2023 11:23:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,475 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/01/cropped-logo-2-1-32x32.jpg</url>
+	<url>/wp-content/uploads/2023/01/logo-150x150.png</url>
 	<title>Miluoban</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Hello world!</title>
+		<link>/2023/01/24/hello-world/</link>
+					<comments>/2023/01/24/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2023 11:16:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/01/24/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gutenberg Sample Post</title>
+		<link>/2019/11/09/gutenberg-sample-post/</link>
+					<comments>/2019/11/09/gutenberg-sample-post/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sat, 09 Nov 2019 11:48:29 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<guid isPermaLink="false">https://demo.wpzoom.com/inspiro-lite-xml/?p=5984</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a placeholder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Melville. That’s why they &#8230; <p class="link-more"><a href="/2019/11/09/gutenberg-sample-post/" class="more-link">Read more<span class="screen-reader-text"> "Gutenberg Sample Post"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a <g class="gr_ gr_4 gr-alert sel gr_spell gr_replaced gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del" id="4" data-gr-id="4">placeholder</g> for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery columns-3 is-cropped alignwide"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="2000" height="1124" src="http://demo.wpzoom.com/inspiro/files/2014/08/ishan-seefromthesky-179744-unsplash.jpg" alt="" data-id="5831" data-link="http://demo.wpzoom.com/inspiro/gallery/quam-vestibulum-adipiscing-vulputate/ishan-seefromthesky-179744-unsplash/" class="wp-image-5831" srcset="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash.jpg 2000w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-300x169.jpg 300w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1024x575.jpg 1024w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-768x432.jpg 768w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1536x863.jpg 1536w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-600x337.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="2000" height="1363" src="http://demo.wpzoom.com/inspiro/files/2014/08/annie-spratt-173413-unsplash.jpg" alt="" data-id="5830" data-link="http://demo.wpzoom.com/inspiro/gallery/quam-vestibulum-adipiscing-vulputate/annie-spratt-173413-unsplash/" class="wp-image-5830" srcset="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash.jpg 2000w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-300x204.jpg 300w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1024x698.jpg 1024w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-768x523.jpg 768w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1536x1047.jpg 1536w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-600x409.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="2000" height="1333" src="http://demo.wpzoom.com/inspiro/files/2014/08/tom-mussak-108420-unsplash.jpg" alt="" data-id="5829" data-link="http://demo.wpzoom.com/inspiro/gallery/quam-vestibulum-adipiscing-vulputate/tom-mussak-108420-unsplash/" class="wp-image-5829" srcset="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash.jpg 2000w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-300x200.jpg 300w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1024x682.jpg 1024w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-768x512.jpg 768w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-600x400.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="2000" height="1500" src="http://demo.wpzoom.com/inspiro/files/2014/08/caleb-george-316073-unsplash-1.jpg" alt="" data-id="5836" data-link="http://demo.wpzoom.com/inspiro/gallery/fusce-ridiculus-mollis-risus/caleb-george-316073-unsplash-1/" class="wp-image-5836" srcset="/wp-content/uploads/2014/08/caleb-george-316073-unsplash-1.jpg 2000w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-300x225.jpg 300w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-1024x768.jpg 1024w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-768x576.jpg 768w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-1536x1152.jpg 1536w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-600x450.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="2000" height="1123" src="http://demo.wpzoom.com/inspiro/files/2014/08/syd-sujuaan-293256-unsplash.jpg" alt="" data-id="5828" data-link="http://demo.wpzoom.com/inspiro/gallery/quam-vestibulum-adipiscing-vulputate/syd-sujuaan-293256-unsplash/" class="wp-image-5828" srcset="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash.jpg 2000w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-300x168.jpg 300w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-1024x575.jpg 1024w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-768x431.jpg 768w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-1536x862.jpg 1536w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-600x337.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li></ul></figure>
+
+
+
+<p>If you want to read, I might suggest a good book, perhaps Melville. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+
+
+
+<div class="wp-block-cover alignfull has-background-dim has-parallax" style="background-image:url(http://demo.wpzoom.com/inspiro/files/2014/08/08-e1459686417532.jpg)"><div class="wp-block-cover__inner-container">
+<p class="has-text-color has-text-align-center has-large-font-size has-white-color">Nice to meet you, Gutenberg</p>
+</div></div>
+
+
+
+<p> </p>
+
+
+
+<p>In today’s competitive market environment, the body copy of your entry must lead the reader through a series of disarmingly simple thoughts.</p>
+
+
+
+<figure class="wp-block-image alignwide"><img decoding="async" width="2000" height="1332" src="http://demo.wpzoom.com/inspiro/files/2014/08/nathan-anderson-316188-unsplash-1.jpg" alt="" class="wp-image-5834" srcset="/wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1.jpg 2000w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-300x200.jpg 300w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-1024x682.jpg 1024w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-768x511.jpg 768w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-1536x1023.jpg 1536w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-600x400.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption>Wide width image</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also understand their needs as consumers.</p>
+
+
+
+<figure class="wp-block-image alignfull"><img decoding="async" width="2000" height="1125" src="http://demo.wpzoom.com/inspiro/files/2014/08/andreas-gucklhorn-285567-unsplash-1.jpg" alt="" class="wp-image-5835" srcset="/wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1.jpg 2000w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-300x169.jpg 300w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-1024x576.jpg 1024w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-768x432.jpg 768w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-1536x864.jpg 1536w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-600x338.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption>Full width image</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>As a result of which, your entry will repay your efforts. Take your sales; simply put, they will rise. Likewise your credibility. There’s every chance your competitors will wish they’d placed this entry, not you. While your customers will have probably forgotten that your competitors even exist. Which brings us, by a somewhat circuitous route, to another small point, but one which we feel should be raised.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="2000" height="1333" src="http://demo.wpzoom.com/inspiro/files/2014/08/tom-mussak-108420-unsplash.jpg" alt="" class="wp-image-5829" srcset="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash.jpg 2000w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-300x200.jpg 300w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1024x682.jpg 1024w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-768x512.jpg 768w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-600x400.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption>Simple image (default size)</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>This is <g class="gr_ gr_11 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="11" data-gr-id="11">dummy</g> copy. It is not meant to be read. Accordingly, it is difficult to figure out when to end it. If this were <g class="gr_ gr_10 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep" id="10" data-gr-id="10">real</g> copy, it would have ended long ago, because‚ as we all know‚ no one reads body copy, and even fewer read body copy this long. But then, this is dummy copy. It is not meant to be read. Period.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/09/gutenberg-sample-post/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testing the Elements</title>
+		<link>/2019/11/03/testing-the-elements/</link>
+					<comments>/2019/11/03/testing-the-elements/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2019 18:28:51 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[elements]]></category>
+		<category><![CDATA[lorem]]></category>
+		<category><![CDATA[sample]]></category>
+		<guid isPermaLink="false">http://wpzoom.com/zenko/demo/?p=73</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/11/03/testing-the-elements/" class="more-link">Read more<span class="screen-reader-text"> "Testing the Elements"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image size-large wp-image-5944"><figure class="aligncenter size-large"><img decoding="async" width="1024" height="683" src="https://demo.wpzoom.com/inspiro-lite/files/2014/06/wang-xi-490257-unsplash-1-1024x683.jpg" alt="" class="wp-image-5944" srcset="/wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-1024x683.jpg 1024w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-300x200.jpg 300w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-768x512.jpg 768w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-1536x1024.jpg 1536w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-2048x1366.jpg 2048w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-2000x1334.jpg 2000w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>This is a sample caption</figcaption></figure></div>
+
+
+
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+
+
+
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+
+
+
+<p>In today’s competitive <a title="market environment" href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+
+
+
+<h3>Gallery</h3>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-3 wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="576" src="https://demo.wpzoom.com/inspiro-lite-xml/files/2016/02/alexander-dummer-124674-unsplash-1-1024x576.jpg" alt="" data-id="5974" data-full-url="/wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1.jpg" data-link="https://demo.wpzoom.com/inspiro-lite-xml/2019/11/03/testing-the-elements/alexander-dummer-124674-unsplash-1/" class="wp-image-5974" srcset="/wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1-1024x576.jpg 1024w, /wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1-300x169.jpg 300w, /wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1-768x432.jpg 768w, /wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1-1536x864.jpg 1536w, /wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1-600x338.jpg 600w, /wp-content/uploads/2016/02/alexander-dummer-124674-unsplash-1.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="617" src="https://demo.wpzoom.com/inspiro-lite-xml/files/2016/02/william-daigneault-1102186-unsplash-1024x617.jpg" alt="" data-id="5976" data-full-url="/wp-content/uploads/2016/02/william-daigneault-1102186-unsplash.jpg" data-link="https://demo.wpzoom.com/inspiro-lite-xml/2019/11/03/testing-the-elements/william-daigneault-1102186-unsplash/" class="wp-image-5976" srcset="/wp-content/uploads/2016/02/william-daigneault-1102186-unsplash-1024x617.jpg 1024w, /wp-content/uploads/2016/02/william-daigneault-1102186-unsplash-300x181.jpg 300w, /wp-content/uploads/2016/02/william-daigneault-1102186-unsplash-768x463.jpg 768w, /wp-content/uploads/2016/02/william-daigneault-1102186-unsplash-1536x925.jpg 1536w, /wp-content/uploads/2016/02/william-daigneault-1102186-unsplash-600x361.jpg 600w, /wp-content/uploads/2016/02/william-daigneault-1102186-unsplash.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">Full-width image</figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="683" src="https://demo.wpzoom.com/inspiro-lite-xml/files/2014/06/wang-xi-490257-unsplash-1-1024x683.jpg" alt="" data-id="5944" data-full-url="/wp-content/uploads/2014/06/wang-xi-490257-unsplash-1.jpg" data-link="https://demo.wpzoom.com/inspiro-lite-xml/?attachment_id=5944" class="wp-image-5944" srcset="/wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-1024x683.jpg 1024w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-300x200.jpg 300w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-768x512.jpg 768w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-1536x1024.jpg 1536w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-2048x1366.jpg 2048w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-2000x1334.jpg 2000w, /wp-content/uploads/2014/06/wang-xi-490257-unsplash-1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">This is a sample caption</figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="683" src="https://demo.wpzoom.com/inspiro-lite-xml/files/2014/06/eric-park-408241-unsplash-1-1024x683.jpg" alt="" data-id="5943" data-full-url="/wp-content/uploads/2014/06/eric-park-408241-unsplash-1.jpg" data-link="https://demo.wpzoom.com/inspiro-lite-xml/?attachment_id=5943" class="wp-image-5943" srcset="/wp-content/uploads/2014/06/eric-park-408241-unsplash-1-1024x683.jpg 1024w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-300x200.jpg 300w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-768x512.jpg 768w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-1536x1024.jpg 1536w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-2048x1366.jpg 2048w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-2000x1334.jpg 2000w, /wp-content/uploads/2014/06/eric-park-408241-unsplash-1-600x400.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p> </p>
+
+
+
+<h3>Fullscreen Image</h3>
+
+
+
+<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla.</p>
+
+
+
+<figure class="wp-block-image alignfull size-large size-full wp-image-5833"><img decoding="async" width="1024" height="566" src="https://demo.wpzoom.com/inspiro-lite/files/2014/08/fidelia-zheng-106777-unsplash-1024x566.jpg" alt="" class="wp-image-5833" srcset="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1024x566.jpg 1024w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-300x166.jpg 300w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-768x425.jpg 768w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1536x849.jpg 1536w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-600x332.jpg 600w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Full-width image</figcaption></figure>
+
+
+
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also <strong>understand their needs as consumers</strong>.</p>
+
+
+
+<span id="more-73"></span>
+
+
+
+<h3>Unordered List</h3>
+
+
+
+<ul><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li><li>Aliquam tincidunt mauris eu risus.</li><li>Vestibulum auctor dapibus neque.</li></ul>
+
+
+
+<h3>Ordered List</h3>
+
+
+
+<ol><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li><li>Aliquam tincidunt mauris eu risus.</li><li>Vestibulum auctor dapibus neque.</li></ol>
+
+
+
+<h3>Blockquote</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
+
+
+
+<h1>Heading 1</h1>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros libero, condimentum ut, facilisis non, pellentesque ut, enim. Duis tortor. Proin a quam. Phasellus pellentesque volutpat felis. Nulla facilisi. Cras sed sem at neque dapibus ultricies. Aliquam placerat pellentesque metus. Morbi ac dui non nibh pretium lacinia. Curabitur vitae elit quis tellus tincidunt aliquet. Aliquam id ligula vel eros lobortis interdum. Aliquam in mauris. Etiam et turpis. Donec faucibus vulputate arcu.</p>
+
+
+
+<h2>Heading 2</h2>
+
+
+
+<p>Praesent dolor ipsum, mollis et, porta vel, auctor ultricies, mi. Vivamus ligula leo, ullamcorper eget, pellentesque sed, adipiscing eget, ipsum. Duis imperdiet adipiscing justo. Duis molestie quam vehicula dui. Donec nec ligula. Nullam turpis mauris, mollis ut, semper non, imperdiet vitae, nunc. Suspendisse diam diam, rhoncus in, imperdiet eget, iaculis nec, nibh. Proin commodo risus quis velit. Nam sodales massa ut ipsum. Curabitur ipsum.</p>
+
+
+
+<h3>Heading 3</h3>
+
+
+
+<p>Integer pretium enim a lectus. Sed mi. In neque. Suspendisse suscipit ipsum in ligula. Integer aliquam rutrum ante. Pellentesque ligula. Duis mauris. Nunc volutpat mi non lorem. Cras eros. Vestibulum vel nisi. Aenean nec nibh sed orci imperdiet tempor.</p>
+
+
+
+<h4>Heading 4</h4>
+
+
+
+<p>Aenean nec sapien sed arcu gravida scelerisque. Fusce vehicula risus vel urna. Cras venenatis leo id dui bibendum pretium. Cras sem sem, pretium vel, cursus id, facilisis eget, enim. Ut tempor. Donec augue lorem, sollicitudin sed, mattis quis, egestas at, risus. Praesent tempus orci in massa. Integer tempor ornare velit. Proin euismod. Nunc in augue.</p>
+
+
+
+<h5>Heading 5</h5>
+
+
+
+<p>Duis iaculis elit non lacus. Ut sollicitudin erat. Suspendisse potenti. Duis iaculis pharetra lacus. Fusce ac magna. Duis et ante et libero rutrum sagittis. Vivamus consectetur. Integer in eros. Donec at purus. Praesent diam mi, sollicitudin a, molestie non, imperdiet a, enim. Pellentesque et ante sit amet lectus eleifend aliquet. Cras convallis erat non arcu. Duis consectetur tempor mi. Suspendisse non dolor at augue consectetur dictum. Aliquam arcu mauris, commodo sed, ultricies elementum, lacinia a, nisl.</p>
+
+
+
+<h6>Heading 6</h6>
+
+
+
+<p>Mauris ultricies, odio a ultricies blandit, lorem mauris tincidunt tortor, et aliquet enim neque quis turpis. Nunc neque diam, porta ac, accumsan ut, tristique in, nibh. Ut ac justo sit amet dolor ornare cursus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/03/testing-the-elements/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with YouTube Video</title>
+		<link>/2019/11/01/post-with-youtube-video/</link>
+					<comments>/2019/11/01/post-with-youtube-video/#comments</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 12:53:42 +0000</pubDate>
+				<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/expedition/?p=29</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/11/01/post-with-youtube-video/" class="more-link">Read more<span class="screen-reader-text"> "Post with YouTube Video"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Iceland drone footage in 4K" width="950" height="534" src="https://www.youtube.com/embed/ZwfRUsgvy18?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>If you want to read, I might suggest a good book, perhaps <a href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+
+
+
+<p>In today’s competitive <a href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+
+
+
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also <strong>understand their needs as consumers</strong>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/01/post-with-youtube-video/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Gallery</title>
+		<link>/2019/10/31/post-with-gallery/</link>
+					<comments>/2019/10/31/post-with-gallery/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2019 10:28:29 +0000</pubDate>
+				<category><![CDATA[Scenic]]></category>
+		<category><![CDATA[elements]]></category>
+		<category><![CDATA[gallery]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/delirium/?p=2831</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. Mosaic Gallery If you want to read, I might suggest a good book, perhaps Hemingway &#8230; <p class="link-more"><a href="/2019/10/31/post-with-gallery/" class="more-link">Read more<span class="screen-reader-text"> "Post with Gallery"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<h3>Mosaic Gallery</h3>
+<p>
+<a href='/caleb-george-316073-unsplash-1/'><img width="150" height="150" src="/wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-150x150.jpg 150w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/andreas-gucklhorn-285567-unsplash-1/'><img width="150" height="150" src="/wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-150x150.jpg 150w, /wp-content/uploads/2014/08/andreas-gucklhorn-285567-unsplash-1-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/nathan-anderson-316188-unsplash-1/'><img width="150" height="150" src="/wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-150x150.jpg 150w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/fidelia-zheng-106777-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/clem-onojeghuo-111588-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/ishan-seefromthesky-179744-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/annie-spratt-173413-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/syd-sujuaan-293256-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+</p>
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<h3>Square Tiles</h3>
+<p>
+<a href='/caleb-george-316073-unsplash-1/'><img width="150" height="150" src="/wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-150x150.jpg 150w, /wp-content/uploads/2014/08/caleb-george-316073-unsplash-1-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/syd-sujuaan-293256-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/tom-mussak-108420-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/nathan-anderson-316188-unsplash-1/'><img width="150" height="150" src="/wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-150x150.jpg 150w, /wp-content/uploads/2014/08/nathan-anderson-316188-unsplash-1-800x800.jpg 800w" sizes="100vw" /></a>
+<a href='/clem-onojeghuo-111588-unsplash/'><img width="150" height="150" src="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-150x150.jpg 150w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-800x800.jpg 800w" sizes="100vw" /></a>
+</p>
+<p>In today’s competitive <a title="market environment" href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+<p><img decoding="async" src="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash.jpg" alt="" width="2000" height="1363" class="aligncenter size-full wp-image-5830" srcset="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash.jpg 2000w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-300x204.jpg 300w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1024x698.jpg 1024w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-768x523.jpg 768w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1536x1047.jpg 1536w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-600x409.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p><img decoding="async" src="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash.jpg" alt="" width="2000" height="1124" class="aligncenter size-full wp-image-5831" srcset="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash.jpg 2000w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-300x169.jpg 300w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1024x575.jpg 1024w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-768x432.jpg 768w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1536x863.jpg 1536w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-600x337.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p><figure id="attachment_5833" aria-describedby="caption-attachment-5833" style="width: 2000px" class="wp-caption aligncenter"><img decoding="async" src="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash.jpg" alt="" width="2000" height="1106" class="size-full wp-image-5833" srcset="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash.jpg 2000w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-300x166.jpg 300w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1024x566.jpg 1024w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-768x425.jpg 768w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1536x849.jpg 1536w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-600x332.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption id="caption-attachment-5833" class="wp-caption-text">Full-width image</figcaption></figure></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/31/post-with-gallery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Slideshow</title>
+		<link>/2019/09/28/post-with-slideshow/</link>
+					<comments>/2019/09/28/post-with-slideshow/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2019 10:25:04 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/delirium/?p=2819</guid>
+
+					<description><![CDATA[Below is an example of a Slideshow Block which is included in the free Jetpack Plugin. See more details about this block here. This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy &#8230; <p class="link-more"><a href="/2019/09/28/post-with-slideshow/" class="more-link">Read more<span class="screen-reader-text"> "Post with Slideshow"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Below is an example of a <strong>Slideshow Block</strong> which is included in the free Jetpack Plugin. See more details about this block <a href="https://jetpack.com/support/jetpack-blocks/slideshow-block/">here</a>.</p>
+
+
+
+<div class="wp-block-jetpack-slideshow alignwide" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1123" alt="" class="wp-block-jetpack-slideshow_image wp-image-5828" data-id="5828" src="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash.jpg" srcset="/wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash.jpg 2000w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-300x168.jpg 300w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-1024x575.jpg 1024w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-768x431.jpg 768w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-1536x862.jpg 1536w, /wp-content/uploads/2014/08/syd-sujuaan-293256-unsplash-600x337.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1333" alt="" class="wp-block-jetpack-slideshow_image wp-image-5829" data-id="5829" src="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash.jpg" srcset="/wp-content/uploads/2014/08/tom-mussak-108420-unsplash.jpg 2000w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-300x200.jpg 300w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1024x682.jpg 1024w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-768x512.jpg 768w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2014/08/tom-mussak-108420-unsplash-600x400.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1363" alt="" class="wp-block-jetpack-slideshow_image wp-image-5830" data-id="5830" src="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash.jpg" srcset="/wp-content/uploads/2014/08/annie-spratt-173413-unsplash.jpg 2000w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-300x204.jpg 300w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1024x698.jpg 1024w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-768x523.jpg 768w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-1536x1047.jpg 1536w, /wp-content/uploads/2014/08/annie-spratt-173413-unsplash-600x409.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1124" alt="" class="wp-block-jetpack-slideshow_image wp-image-5831" data-id="5831" src="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash.jpg" srcset="/wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash.jpg 2000w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-300x169.jpg 300w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1024x575.jpg 1024w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-768x432.jpg 768w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-1536x863.jpg 1536w, /wp-content/uploads/2014/08/ishan-seefromthesky-179744-unsplash-600x337.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1333" alt="" class="wp-block-jetpack-slideshow_image wp-image-5832" data-id="5832" src="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash.jpg" srcset="/wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash.jpg 2000w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-300x200.jpg 300w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-1024x682.jpg 1024w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-768x512.jpg 768w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-1536x1024.jpg 1536w, /wp-content/uploads/2014/08/clem-onojeghuo-111588-unsplash-600x400.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="2000" height="1106" alt="" class="wp-block-jetpack-slideshow_image wp-image-5833" data-id="5833" src="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash.jpg" srcset="/wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash.jpg 2000w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-300x166.jpg 300w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1024x566.jpg 1024w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-768x425.jpg 768w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-1536x849.jpg 1536w, /wp-content/uploads/2014/08/fidelia-zheng-106777-unsplash-600x332.jpg 600w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Full-width image</figcaption></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+
+
+
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+
+
+
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/09/28/post-with-slideshow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Post with Vimeo Video</title>
+		<link>/2019/09/25/post-with-vimeo-video/</link>
+					<comments>/2019/09/25/post-with-vimeo-video/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2019 11:25:54 +0000</pubDate>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[desert]]></category>
+		<category><![CDATA[road]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/delirium/?p=2850</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/09/25/post-with-vimeo-video/" class="more-link">Read more<span class="screen-reader-text"> "Post with Vimeo Video"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><iframe title="4K Fjordlapse Norway" src="https://player.vimeo.com/video/172689417?dnt=1&amp;app_id=122963" width="950" height="534" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
+<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<p>In today’s competitive <a title="market environment" href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/09/25/post-with-vimeo-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>City Bike</title>
+		<link>/2019/07/22/city-bike/</link>
+					<comments>/2019/07/22/city-bike/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2019 10:31:26 +0000</pubDate>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[Urban]]></category>
+		<category><![CDATA[bike]]></category>
+		<category><![CDATA[city]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/photonote/?p=681</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Melville. That’s why &#8230; <p class="link-more"><a href="/2019/07/22/city-bike/" class="more-link">Read more<span class="screen-reader-text"> "City Bike"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<p>If you want to read, I might suggest a good book, perhaps Melville. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<p>In today’s competitive market environment, the body copy of your entry must lead the reader through a series of disarmingly simple thoughts.</p>
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also understand their needs as consumers.</p>
+<p>As a result of which, your entry will repay your efforts. Take your sales; simply put, they will rise. Likewise your credibility. There’s every chance your competitors will wish they’d placed this entry, not you. While your customers will have probably forgotten that your competitors even exist. Which brings us, by a somewhat circuitous route, to another small point, but one which we feel should be raised.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/07/22/city-bike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sed posuere consectetur est at lobortis</title>
+		<link>/2019/07/10/sed-posuere-consectetur-est-at-lobortis/</link>
+					<comments>/2019/07/10/sed-posuere-consectetur-est-at-lobortis/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2019 12:48:29 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/delirium/?p=2764</guid>
+
+					<description><![CDATA[This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content. If you want to read, I might suggest a good book, perhaps Hemingway or Melville. &#8230; <p class="link-more"><a href="/2019/07/10/sed-posuere-consectetur-est-at-lobortis/" class="more-link">Read more<span class="screen-reader-text"> "Sed posuere consectetur est at lobortis"</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a place holder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
+<p>If you want to read, I might suggest a good book, perhaps <a title="Hemingway" href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Hemingway</a> or <a title="Melville" href="http://en.wikipedia.org/wiki/Herman_Melville">Melville</a>. That’s why they call it, the dummy copy. This, of course, is not the real copy for this entry. Rest assured, the words will expand the concept. With clarity. Conviction. And a little wit.</p>
+<p>In today’s competitive <a title="market environment" href="http://en.wikipedia.org/wiki/Market_environment">market environment</a>, the body copy of your entry must lead the reader through a series of <strong>disarmingly simple thoughts</strong>.</p>
+<p>All your supporting arguments must be communicated with simplicity and charm. And in such a way that the reader will read on. (After all, that’s a reader’s job: to read, isn’t it?) And by the time your readers have reached this point in the finished copy, you will have convinced them that you not only respect their intelligence, but you also <strong>understand their needs as consumers</strong>.</p>
+<p>As a result of which, your entry will repay your <a title="writing" href="http://en.wikipedia.org/wiki/Writing">efforts</a>. Take your sales; simply put, they will rise. Likewise your credibility. There’s every chance your competitors will wish they’d placed this entry, not you. While your customers will have probably forgotten that your competitors even exist. Which brings us, by a somewhat circuitous route, to another small point, but one which we feel should be raised.</p>
+<h3>Long copy or short &#8211; You decide</h3>
+<p>As a marketer, you probably don’t even believe in body copy. <strong>Let alone long body copy</strong>. (Unless you have a long body yourself.) Well, truth is, who‘s to blame you? Fact is, too much long body copy is dotted with such indulgent little phrases like <a title="truth" href="http://en.wikipedia.org/wiki/Truth">truth</a> is, fact is, and who’s to blame you. Trust us: we guarantee, with a hand over our heart, that no such indulgent rubbish will appear in your entry. That’s why God gave us big blue pencils. So we can expunge every example of witted waffle.</p>
+<blockquote><p>For you, the skies will be blue, the birds will sing, and your copy will be crafted by a dedicated little man whose wife will be sitting at home, knitting, wondering why your entry demands more of her husband‘s time than it should.</p></blockquote>
+<p>But you will know why, won‘t you? You will have given her husband a chance to immortalize himself in print, writing some of the most persuasive prose on behalf of a truly enlightened purveyor of <a title="widgets" href="http://en.wikipedia.org/wiki/Widgets">widgets</a>. And so, while your dedicated reader, enslaved to each mellifluous paragraph, clutches his newspaper with increasing interest and intention to purchase, you can count all your increased profits and take pots of money to your bank. Sadly, this is not the real copy for this entry. <strong>But it could well be</strong>. All you have to do is look at the <a title="account executive" href="http://en.wikipedia.org/wiki/Account_executive">account executive</a> sitting across your desk (the fellow with the lugubrious face and the calf-like eyes), and say ”Yes! Yes! Yes!“ And anything you want, body copy, dinners, women, will be yours. Couldn’t be fairer than that, could we?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/07/10/sed-posuere-consectetur-est-at-lobortis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desert Road</title>
+		<link>/2019/05/24/desert-road/</link>
+					<comments>/2019/05/24/desert-road/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 24 May 2019 11:42:02 +0000</pubDate>
+				<category><![CDATA[Scenic]]></category>
+		<category><![CDATA[desert]]></category>
+		<category><![CDATA[road]]></category>
+		<guid isPermaLink="false">http://demo.wpzoom.com/photonote/?p=699</guid>
+
+					<description><![CDATA[Suspendisse potenti. Nunc ipsum felis, ullamcorper id suscipit vitae, pellentesque eget lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas condimentum rutrum nisl, at fermentum turpis vulputate quis. Curabitur placerat gravida tempor. Praesent in lacus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis imperdiet augue. Donec &#8230; <p class="link-more"><a href="/2019/05/24/desert-road/" class="more-link">Read more<span class="screen-reader-text"> "Desert Road"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Suspendisse potenti. Nunc ipsum felis, ullamcorper id suscipit vitae, pellentesque eget lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas condimentum rutrum nisl, at fermentum turpis vulputate quis. Curabitur placerat gravida tempor. Praesent in lacus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis imperdiet augue. Donec aliquet fermentum tempus. Nullam sodales bibendum purus, a adipiscing lorem auctor quis. Nullam egestas cursus rhoncus. Phasellus eu lectus felis.</p>
+
+
+
+<figure class="is-layout-flex wp-block-gallery-5 wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="980" height="659" src="/wp-content/uploads/2012/01/desert-road.jpg" alt="" data-id="700" class="wp-image-700" srcset="/wp-content/uploads/2012/01/desert-road.jpg 980w, /wp-content/uploads/2012/01/desert-road-300x202.jpg 300w, /wp-content/uploads/2012/01/desert-road-768x516.jpg 768w, /wp-content/uploads/2012/01/desert-road-600x403.jpg 600w" sizes="(max-width: 980px) 100vw, 980px" /></figure></li><li class="blocks-gallery-item"><figure><img data-id="964" class="wp-image-964"/></figure></li></ul></figure>
+
+
+
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/05/24/desert-road/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
