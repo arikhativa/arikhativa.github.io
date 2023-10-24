@@ -1,0 +1,14 @@
+@import '../../styles.scss';
+
+nav {
+	position: fixed;
+	background-color: rgba(246, 103, 227, 0.28);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	width: 50px;
+	top: $header-height;
+	left: 0;
+	bottom: 0;
+}

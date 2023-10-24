@@ -1,17 +1,19 @@
-.header {
-	position: absolute;
-	width: 100%;
+@import '../../styles.scss';
+
+header {
+	background-color: rgba(103, 246, 203, 0.28);
+	position: fixed;
 	top: 0;
+	right: 0;
 	left: 0;
+	height: $header-height;
 	z-index: 999;
-
-
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
-.hleft {
-	order: 1;
-}
-
-.hright {
-	order: 2;
+header .settings-logo {
+	margin-left: 20px;
+	width: 2%;
 }
