@@ -8,6 +8,7 @@ header {
 	height: $header-height;
 	z-index: 999;
 	display: flex;
+	flex: auto 1 auto;
 	align-items: center;
 	justify-content: space-between;
 }
@@ -18,19 +19,25 @@ header .left-side {
 	align-items: center;
 }
 
-header .mid-side {
-	background-color: rgba(179, 118, 231, 0.28);
-	// display: flex;
-	// width: 3000px;
-	// align-items: center;
-	// justify-content: center;
+header .app-search-bar {
+	background-color: rgba(65, 9, 114, 0.28);
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	max-width: 700px;
+	flex: 1;
+	margin-left: 60px;
+}
+
+.del {
+	flex: 1;
 }
 
 header .right-side {
 	background-color: rgba(231, 231, 118, 0.28);
 	display: flex;
-	// width: 3000px;
-	// align-items: center;
+	width: 300px;
+	align-items: center;
 	// justify-content: center;
 }
 

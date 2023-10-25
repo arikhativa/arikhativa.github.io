@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
 	settingsLogoPath = "/assets/svg/hamburger-menu.svg"
 	siteLogoPath = "/assets/svg/youtube-logo.svg"
+	createLogoPath = "/assets/svg/youtube-logo.svg"
 
 }

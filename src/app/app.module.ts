@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HomeModule } from './home/home.module';
 import { HeaderModule } from './header/header.module';
 import { NavbarModule } from './navbar/navbar.module';
-import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
 	declarations: [
@@ -14,7 +13,6 @@ import { ReactiveFormsModule } from '@angular/forms';
 	],
 	imports: [
 		HomeModule,
-		ReactiveFormsModule,
 		HeaderModule,
 		NavbarModule,
 		BrowserModule,

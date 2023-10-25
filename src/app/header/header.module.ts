@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeaderComponent } from './header.component';
+import { SearchBarModule } from '../search-bar/search-bar.module';
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import { HeaderComponent } from './header.component';
 		HeaderComponent
 	],
 	imports: [
-		CommonModule
+		CommonModule,
+		SearchBarModule
 	]
 })
 export class HeaderModule { }
