@@ -1,8 +1,14 @@
 <header>
-	<div ngClass="settings-logo">
-		<img src="/assets/svg/hamburger-menu.svg" alt="settings logo">
+	<div ngClass="left-side">
+		<div ngClass="settings-logo">
+			<img [src]="settingsLogoPath" alt="settings logo">
+		</div>
+		<div ngClass="site-logo">
+			<img [src]="siteLogoPath" alt="site logo">
+		</div>
 	</div>
-	<div>
-		B
+	<div ngClass="mid-side">
+	</div>
+	<div ngClass="right-side">
 	</div>
 </header>

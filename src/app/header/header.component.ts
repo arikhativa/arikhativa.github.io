@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
 	styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent {
+	settingsLogoPath = "/assets/svg/hamburger-menu.svg"
+	siteLogoPath = "/assets/svg/youtube-logo.svg"
 
 }

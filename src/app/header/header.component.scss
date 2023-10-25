@@ -1,7 +1,6 @@
 @import '../../styles.scss';
 
 header {
-	background-color: rgba(103, 246, 203, 0.28);
 	position: fixed;
 	top: 0;
 	right: 0;
@@ -13,7 +12,42 @@ header {
 	justify-content: space-between;
 }
 
+header .left-side {
+	background-color: rgba(108, 151, 138, 0.28);
+	display: flex;
+	align-items: center;
+}
+
+header .mid-side {
+	background-color: rgba(179, 118, 231, 0.28);
+	// display: flex;
+	// width: 3000px;
+	// align-items: center;
+	// justify-content: center;
+}
+
+header .right-side {
+	background-color: rgba(231, 231, 118, 0.28);
+	display: flex;
+	// width: 3000px;
+	// align-items: center;
+	// justify-content: center;
+}
+
+header .site-logo,
 header .settings-logo {
-	margin-left: 20px;
-	width: 2%;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+header .settings-logo {
+	margin-left: 24px;
+	margin-right: 24px;
+	width: 24px;
+	height: 24px;
+}
+
+header .site-logo {
+	width: 90px;
+	height: 20px;
 }
