@@ -8,6 +8,9 @@ import { FormBuilder, FormGroup } from '@angular/forms';
 })
 export class SearchBarComponent {
 	searchForm: FormGroup;
+	searchImgPath = "/assets/svg/search.svg"
+	microphoneImgPath = "/assets/svg/voice-search-icon.svg"
+
 
 	constructor(private fb: FormBuilder) {
 		this.searchForm = this.fb.group({

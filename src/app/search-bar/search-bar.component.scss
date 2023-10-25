@@ -1,6 +1,5 @@
 :host,
 form {
-	background-color: rgba(9, 114, 40, 0.28);
 	display: flex;
 	align-items: center;
 	flex: 1;
@@ -8,20 +7,55 @@ form {
 	margin-left: 60px;
 }
 
+$input-height: 40px;
+
 form input {
-	// position: relative;
-	// min-width: 0;
-	// max-width: 1000;
-	// width: 1000px;
+	line-height: 24px;
+	border: 1px solid rgb(204, 204, 204);
+	border-radius: 2px;
+	box-shadow: inset 0px 1px 2px rgb(238, 238, 238);
 	cursor: text;
 	flex: 1;
-	// display: flex;
-	// align-items: center;
-	// justify-content: center;
-	// flex-grow: 1;
+	height: $input-height;
+	font-size: 16px;
 }
 
-form button {
-	width: 100px;
+form input::placeholder {
+	padding: 10px;
+}
 
+.search-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: -1px;
+	background-color: rgb(247, 247, 247);
+	border: 1px solid rgb(204, 204, 204);
+	height: 44px;
+	width: 66px;
+}
+
+.search-icon img {
+	height: 24px;
+	width: 24px;
+}
+
+$microphone-icon-height: 44px;
+
+.microphone-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 0px;
+	background-color: rgba(247, 247, 247, 0.9);
+
+	border-radius: $microphone-icon-height / 2;
+	height: $microphone-icon-height;
+	margin-left: 5px;
+	margin-right: 8px;
+
+}
+
+.microphone-icon img {
+	width: 30px;
 }

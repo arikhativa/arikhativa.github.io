@@ -1,4 +1,9 @@
 <form [formGroup]="searchForm">
-	<input class="dd" formControlName="searchQuery" type="text" placeholder="Search...">
-	<button type="submit" (click)="onSubmit()">Search</button>
+	<input formControlName="searchQuery" type="text" placeholder="Search">
+	<button ngClass="search-icon" type="submit" (click)="onSubmit()">
+		<img [src]="searchImgPath" alt="Search Image">
+	</button>
+	<button ngClass="microphone-icon">
+		<img [src]="microphoneImgPath" alt="microphone icon">
+	</button>
 </form>
