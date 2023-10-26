@@ -14,7 +14,6 @@ header {
 }
 
 header .left-side {
-	background-color: rgba(108, 151, 138, 0.28);
 	display: flex;
 	align-items: center;
 }
@@ -27,18 +26,6 @@ header .app-search-bar {
 	max-width: 700px;
 	flex: 1;
 	margin-left: 60px;
-}
-
-.del {
-	flex: 1;
-}
-
-header .right-side {
-	background-color: rgba(231, 231, 118, 0.28);
-	display: flex;
-	width: 300px;
-	align-items: center;
-	// justify-content: center;
 }
 
 header .site-logo,

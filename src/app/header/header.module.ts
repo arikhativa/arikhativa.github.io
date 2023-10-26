@@ -2,7 +2,8 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeaderComponent } from './header.component';
 import { SearchBarModule } from '../search-bar/search-bar.module';
-
+import { RightHeaderModule } from '../right-header/right-header.module';
+``
 
 @NgModule({
 	declarations: [
@@ -13,7 +14,8 @@ import { SearchBarModule } from '../search-bar/search-bar.module';
 	],
 	imports: [
 		CommonModule,
-		SearchBarModule
+		SearchBarModule,
+  RightHeaderModule,
 	]
 })
 export class HeaderModule { }

@@ -15,6 +15,7 @@ form input {
 	border-radius: 2px;
 	box-shadow: inset 0px 1px 2px rgb(238, 238, 238);
 	cursor: text;
+	width: 30px;
 	flex: 1;
 	height: $input-height;
 	font-size: 16px;
@@ -36,6 +37,7 @@ form input::placeholder {
 }
 
 .search-icon img {
+	cursor: pointer;
 	height: 24px;
 	width: 24px;
 }
@@ -57,5 +59,6 @@ $microphone-icon-height: 44px;
 }
 
 .microphone-icon img {
+	cursor: pointer;
 	width: 30px;
 }
