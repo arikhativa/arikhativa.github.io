@@ -12,6 +12,24 @@ export class GridComponent {
 		views: "3.4M views · 6 months ago",
 		thumbnailPath: "assets/thumbnail/thumbnail-1.webp",
 		channelPath: "assets/channel/channel-1.jpeg",
+	}, {
+		name: 'Talking Tech and AI with Google CEO Sundar Pichai!',
+		user: 'Marques Brownlee',
+		views: "3.4M views · 6 months ago",
+		thumbnailPath: "assets/thumbnail/thumbnail-1.webp",
+		channelPath: "assets/channel/channel-1.jpeg",
+	}, {
+		name: 'Talking Tech and AI with Google CEO Sundar Pichai!',
+		user: 'Marques Brownlee',
+		views: "3.4M views · 6 months ago",
+		thumbnailPath: "assets/thumbnail/thumbnail-1.webp",
+		channelPath: "assets/channel/channel-1.jpeg",
+	}, {
+		name: 'Talking Tech and AI with Google CEO Sundar Pichai!',
+		user: 'Marques Brownlee',
+		views: "3.4M views · 6 months ago",
+		thumbnailPath: "assets/thumbnail/thumbnail-1.webp",
+		channelPath: "assets/channel/channel-1.jpeg",
 	}];
 
 }

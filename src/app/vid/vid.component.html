@@ -1,1 +1,17 @@
-<p>vid works!</p>
+<img [src]="thumbnailPath" alt="">
+<div ngClass="vid-bottom">
+	<div ngClass="vid-channel">
+		<img [src]="channelPath" alt="">
+	</div>
+	<div ngClass="vid-text">
+		<p ngClass="name">
+			{{this.name}}
+		</p>
+		<p ngClass="user">
+			{{this.user}}
+		</p>
+		<p ngClass="views">
+			{{this.views}}
+		</p>
+	</div>
+</div>

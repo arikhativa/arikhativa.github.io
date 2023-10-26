@@ -1,3 +1,15 @@
-<div *ngFor="let v of vids" customDirective>
-	<app-vid></app-vid>
-</div>
+<app-vid *ngFor="let v of vids" [name]="v.name" [user]="v.user" [views]="v.views" [thumbnailPath]="v.thumbnailPath"
+	[channelPath]="v.channelPath"></app-vid>
+
+<!-- <div style="display: grid; grid-template-rows: repeat(3, 1fr);">
+	<div style="display: flex;">
+		asd
+	</div>
+	<div style="display: flex;">
+		asd
+	</div>
+	<div style="display: flex;">
+		asd
+	</div>
+
+</div> -->

@@ -1,0 +1,43 @@
+:host {
+	display: flex;
+	flex-direction: column;
+	vertical-align: middle;
+	max-width: 300px;
+	min-width: 125px;
+	// height: 100px;
+	margin: 10px 10px 10px 10px;
+}
+
+:host img {
+	display: flex;
+
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+
+.vid-bottom {
+	display: flex;
+}
+
+.vid-channel img {
+	border-radius: 18px;
+	margin-left: 7px;
+	margin-top: 4px;
+	margin-right: 10px;
+	width: 36px;
+}
+
+.vid-text {
+	display: block;
+}
+
+.vid-text .name {
+	font-size: 14px;
+	font-weight: 500px;
+}
+
+.vid-text .views,
+.vid-text .user {
+	font-size: 12px;
+	font-weight: 400px;
+}
