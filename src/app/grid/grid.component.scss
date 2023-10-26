@@ -1,0 +1,12 @@
+@import '../../styles.scss';
+
+:host {
+	position: static;
+	display: grid;
+	background-color: rgba(196, 86, 213, 0.073);
+	z-index: 0;
+	grid-template-rows: auto auto auto;
+	height: 100vh;
+	margin-top: $header-height;
+	margin-left: $nav-width;
+}
